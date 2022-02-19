@@ -1,0 +1,8 @@
+[user]
+	name = Vembuselvi
+	email = vembuselvic@bel.co.in
+	mail = vembuselvic@bel.co.in
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
